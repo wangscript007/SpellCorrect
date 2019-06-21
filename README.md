@@ -1,5 +1,7 @@
 # SpellCorrect  
 
+ps:客户端文件在test文件夹中
+
 ## v1离线版
 
 读取txt生成词典和索引文件。
